@@ -1,6 +1,12 @@
 k-wp-faq-2
 ==========
 
+## Disclaimer
+
+The usual. Code provided as is.ay or may not work as intented for your purposes.
+
+## Description
+
 A WordPress plufin building on [`ketwaroo/k-wp-parsedown`](https://github.com/ketwaroo/k-wp-parsedown).
 
 Allows FAQ style formatting with a dynamic table of content.
