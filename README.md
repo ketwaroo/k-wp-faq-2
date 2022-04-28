@@ -15,7 +15,7 @@ A working example of this plugin can be found here: https://nerdontheinter.net/a
 
 It doesn't **have** to be a FAQ, but it does allow for some decent structured formattng.
 
-Works best in conjunction with [`ketwaroo/k-wp-faq-2`](https://github.com/ketwaroo/k-wp-faq-2) and [`ketwaroo/parsedown`](https://github.com/ketwaroo/parsedown), but what can really cause conflicts here is the built in [Shortcode API](https://codex.wordpress.org/Shortcode_API). That API was not quite advanced enough to handle nested sections.
+Works best in conjunction with [`ketwaroo/k-wp-parsedown`](https://github.com/ketwaroo/k-wp-parsedown) and [`ketwaroo/parsedown`](https://github.com/ketwaroo/parsedown), but what can really cause conflicts here is the built in [Shortcode API](https://codex.wordpress.org/Shortcode_API). That API was not quite advanced enough to handle nested sections.
 
 ## Usage
 
